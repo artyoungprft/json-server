@@ -1,0 +1,25 @@
+{
+  "securities": [
+    {
+      "id": 1,
+      "symbol": "GOOGL",
+	  "price": 1060.27,
+	  "change": 7.88,
+	  "changePercentage": 0.75
+    },
+	{
+      "id": 2,
+      "symbol": "MSFT",
+	  "price": 84.40,
+	  "change": 0.15,
+	  "changePercentage": 0.18
+    },
+	{
+      "id": 3,
+      "symbol": "GE",
+	  "price": 20.12,
+	  "change": -0.08,
+	  "changePercentage": -0.42
+    }
+  ]
+}
