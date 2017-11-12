@@ -2,24 +2,33 @@
   "securities": [
     {
       "id": 1,
-      "symbol": "GOOGL",
+      "symbol": "googl",
 	  "price": 1060.27,
-	  "change": 7.88,
-	  "changePercentage": 0.75
+	  "change": 7.88
     },
 	{
       "id": 2,
-      "symbol": "MSFT",
+      "symbol": "msft",
 	  "price": 84.40,
-	  "change": 0.15,
-	  "changePercentage": 0.18
+	  "change": 0.15
     },
 	{
       "id": 3,
       "symbol": "GE",
 	  "price": 20.12,
-	  "change": -0.08,
-	  "changePercentage": -0.42
+	  "change": -0.08
+    },
+	{
+      "id": 4,
+      "symbol": "appl",
+	  "price": 174.67,
+	  "change": -1.58
+    },
+	{
+      "id": 5,
+      "symbol": "vti",
+	  "price": 132.54,
+	  "change": 0.02
     }
   ]
 }
